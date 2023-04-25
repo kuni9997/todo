@@ -1,0 +1,10 @@
+.header {
+    background: black;
+    display: flex;
+    align-items: center;
+}
+
+.header__logo {
+    color: white;
+    font-size: 150%;
+}
